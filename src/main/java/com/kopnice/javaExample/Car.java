@@ -21,4 +21,8 @@ public abstract class Car {
 		this.name = name;
 		this.color = color;
 	}
+	public int getweight() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }

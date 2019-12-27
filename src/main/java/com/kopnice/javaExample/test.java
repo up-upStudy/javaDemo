@@ -1,5 +1,7 @@
 package com.kopnice.javaExample;
 
+import java.util.Scanner;
+
 public class test {
 	private static Scanner scanner;
 	private static Sedan sedan;
